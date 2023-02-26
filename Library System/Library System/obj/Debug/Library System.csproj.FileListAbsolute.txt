@@ -20,3 +20,22 @@ C:\Users\Adnaan Janees\source\repos\Library System\Library System\bin\Debug\Buni
 C:\Users\Adnaan Janees\source\repos\Library System\Library System\obj\Debug\Library System.exe.licenses
 C:\Users\Adnaan Janees\source\repos\Library System\Library System\obj\Debug\Library System.csproj.CopyComplete
 C:\Users\Adnaan Janees\source\repos\Library System\Library System\obj\Debug\Library_System.ViewMember.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.Add_Member.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.AddBook.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.Dashboard.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.Dashboard1.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.ViewBook.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.ViewMember.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.exe.licenses
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.csproj.CopyComplete
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.pdb
