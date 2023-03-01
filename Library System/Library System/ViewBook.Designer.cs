@@ -90,7 +90,7 @@ namespace Library_System
             this.BTN_Refresh.FlatAppearance.BorderSize = 0;
             this.BTN_Refresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BTN_Refresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BTN_Refresh.Location = new System.Drawing.Point(743, 170);
+            this.BTN_Refresh.Location = new System.Drawing.Point(756, 167);
             this.BTN_Refresh.Name = "BTN_Refresh";
             this.BTN_Refresh.Size = new System.Drawing.Size(91, 31);
             this.BTN_Refresh.TabIndex = 2;
