@@ -40,3 +40,4 @@ C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Libra
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.exe
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library System.pdb
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.IssueBooks.resources
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\FontAwesome.Sharp.dll
