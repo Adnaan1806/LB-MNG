@@ -162,7 +162,7 @@ namespace Library_System
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(38)))), ((int)(((byte)(48)))));
             this.label1.Font = new System.Drawing.Font("LCDMono2", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.SpringGreen;
-            this.label1.Location = new System.Drawing.Point(1771, 20);
+            this.label1.Location = new System.Drawing.Point(1773, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(183, 34);
             this.label1.TabIndex = 1;
@@ -177,7 +177,7 @@ namespace Library_System
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1942, 584);
+            this.ClientSize = new System.Drawing.Size(1942, 591);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
