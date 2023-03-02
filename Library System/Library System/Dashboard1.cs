@@ -45,5 +45,20 @@ namespace Library_System
             ViewMember v = new ViewMember();
             v.Show();
         }
+
+        private void clock1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Text = DateTime.Now.ToString("hh:mm:ss");
+        }
+
+        private void Dashboard1_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
     }
 }
