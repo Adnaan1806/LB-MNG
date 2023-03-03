@@ -22,8 +22,6 @@ namespace Library_System
         {
             if(TXT_Search.Text != "")
             {
-                Image i = Image.FromFile("C:/Users/Adnaan Janees/Desktop/Liberay Management System Icon and Images/Liberay Management System/search1.gif");
-                pictureBox1.Image = i;
                 SqlConnection con = new SqlConnection();
                 con.ConnectionString = "Data Source=LAPTOP-ONE9JG64;Initial Catalog=BookLibrary;Integrated Security=True";
                 SqlCommand cmd = new SqlCommand();

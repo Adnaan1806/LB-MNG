@@ -356,7 +356,7 @@ namespace Library_System
             // 
             this.panel10.BackColor = System.Drawing.Color.Wheat;
             this.panel10.Controls.Add(this.label2);
-            this.panel10.Location = new System.Drawing.Point(398, 25);
+            this.panel10.Location = new System.Drawing.Point(389, 23);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(373, 93);
             this.panel10.TabIndex = 19;
