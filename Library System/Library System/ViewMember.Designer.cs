@@ -48,10 +48,10 @@ namespace Library_System
             this.panel1 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -220,7 +220,7 @@ namespace Library_System
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Bauhaus 93", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(85, 16);
+            this.label6.Location = new System.Drawing.Point(83, 18);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(420, 68);
             this.label6.TabIndex = 0;
@@ -250,21 +250,13 @@ namespace Library_System
             this.panel2.TabIndex = 17;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
-            // panel3
+            // panel6
             // 
-            this.panel3.BackColor = System.Drawing.Color.MidnightBlue;
-            this.panel3.Location = new System.Drawing.Point(329, 103);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(248, 1);
-            this.panel3.TabIndex = 18;
-            // 
-            // panel4
-            // 
-            this.panel4.BackColor = System.Drawing.Color.MidnightBlue;
-            this.panel4.Location = new System.Drawing.Point(331, 148);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(248, 1);
-            this.panel4.TabIndex = 19;
+            this.panel6.BackColor = System.Drawing.Color.MidnightBlue;
+            this.panel6.Location = new System.Drawing.Point(330, 247);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(248, 1);
+            this.panel6.TabIndex = 21;
             // 
             // panel5
             // 
@@ -274,13 +266,21 @@ namespace Library_System
             this.panel5.Size = new System.Drawing.Size(248, 1);
             this.panel5.TabIndex = 20;
             // 
-            // panel6
+            // panel4
             // 
-            this.panel6.BackColor = System.Drawing.Color.MidnightBlue;
-            this.panel6.Location = new System.Drawing.Point(330, 247);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(248, 1);
-            this.panel6.TabIndex = 21;
+            this.panel4.BackColor = System.Drawing.Color.MidnightBlue;
+            this.panel4.Location = new System.Drawing.Point(331, 148);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(248, 1);
+            this.panel4.TabIndex = 19;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.MidnightBlue;
+            this.panel3.Location = new System.Drawing.Point(329, 103);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(248, 1);
+            this.panel3.TabIndex = 18;
             // 
             // ViewMember
             // 
