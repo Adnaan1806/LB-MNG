@@ -68,5 +68,10 @@ namespace Library_System
             dataGridView1.DataSource = ds.Tables[0];
 
         }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
