@@ -17,7 +17,12 @@ namespace Library_System
             InitializeComponent();
         }
 
-        private void btn_issue_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
         {
 
         }
