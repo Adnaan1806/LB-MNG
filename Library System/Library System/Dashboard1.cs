@@ -60,5 +60,11 @@ namespace Library_System
         {
             timer1.Start();
         }
+
+        private void issueBooksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            IssueBooks IB = new IssueBooks();
+            IB.Show();
+        }
     }
 }
