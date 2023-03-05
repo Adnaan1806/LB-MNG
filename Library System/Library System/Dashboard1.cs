@@ -72,5 +72,11 @@ namespace Library_System
             ReturnBooks RB = new ReturnBooks();
             RB.Show();
         }
+
+        private void bookDetailsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            BookDetails BD = new BookDetails();
+            BD.Show();
+        }
     }
 }

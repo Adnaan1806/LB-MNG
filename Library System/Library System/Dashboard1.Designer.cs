@@ -147,6 +147,7 @@ namespace Library_System
             this.bookDetailsToolStripMenuItem.Name = "bookDetailsToolStripMenuItem";
             this.bookDetailsToolStripMenuItem.Size = new System.Drawing.Size(142, 54);
             this.bookDetailsToolStripMenuItem.Text = "Book Details";
+            this.bookDetailsToolStripMenuItem.Click += new System.EventHandler(this.bookDetailsToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
