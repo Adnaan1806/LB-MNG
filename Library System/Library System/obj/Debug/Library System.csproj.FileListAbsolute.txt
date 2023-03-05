@@ -58,3 +58,4 @@ C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Syncf
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Syncfusion.Tools.Base.xml
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\Syncfusion.Tools.Windows.xml
 C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\bin\Debug\MaterialSkin.dll
+C:\Users\trign\Source\Repos\LB-MNG\Library System\Library System\obj\Debug\Library_System.ReturnBooks.resources

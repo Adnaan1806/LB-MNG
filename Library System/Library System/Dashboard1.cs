@@ -66,5 +66,11 @@ namespace Library_System
             IssueBooks IB = new IssueBooks();
             IB.Show();
         }
+
+        private void returnBooksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ReturnBooks RB = new ReturnBooks();
+            RB.Show();
+        }
     }
 }
